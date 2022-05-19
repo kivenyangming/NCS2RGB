@@ -9,7 +9,7 @@ print(return_rgb)
 ```
 更改"NCS S 0560-G80Y" 即可得到该NCS对应的RGB
 
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 The project can be directly converted to the corresponding RGB value through NCS encoding,
 call color_translate.js to convert to example.py through js2py
 RUN test.py
